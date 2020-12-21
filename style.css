@@ -6,3 +6,10 @@
     height: 100px;
     width: 100px;
  }
+ .nav-item {
+     font-weight: bold;
+     color: black;
+ }
+  #portfolio-text {
+      color: black;
+  }
